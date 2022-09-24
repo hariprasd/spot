@@ -8,3 +8,4 @@ Web based offline chat platform, connected by wifi & hotspot to share only the t
 **Related Links :**
 - https://github.com/szimek/sharedrop 
 - https://webrtc.org
+- https://en.wikipedia.org/wiki/AirDrop
