@@ -5,9 +5,18 @@ Web based offline chat platform, connected by wifi & hotspot to share only the t
 ***
 [Minimum Viable Prototype ↗︎](https://lun-eu.icons8.com/pr/B-scL0WvtUe_UACGJXctXw/ZbjkIqW_5kWJOD6B0_BsTQ/index.html)
 
-> **End Users :** Meetups, Small Gatherings, Friends Group, Classes etc...<br>
+> **End Users :** <br>
+(I) Organisations with a router facility <br>
+(II) Meetups, Small Gatherings, Friends Group, Classes etc...<br>
 
 **Related Links :**
 - https://github.com/szimek/sharedrop 
 - https://webrtc.org
 - https://en.wikipedia.org/wiki/AirDrop
+- https://bloggeek.me/is-webrtc-safe/
+- https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab
+- https://github.com/lesmana/webrtc-without-signaling-server
+- https://github.com/cjb/serverless-webrtc
+- https://github.com/xem/miniWebRTC
+- https://github.com/webrtc/samples
+- add here
