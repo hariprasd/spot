@@ -19,4 +19,5 @@ Web based offline chat platform, connected by wifi & hotspot to share only the t
 - https://github.com/cjb/serverless-webrtc
 - https://github.com/xem/miniWebRTC
 - https://github.com/webrtc/samples
-- add here
+- https://getstream.io/blog/communication-protocols/
+- // add here
