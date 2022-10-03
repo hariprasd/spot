@@ -1,3 +1,9 @@
+<div> >>
+    <th><a href="https://github.com/hariprasd/spot">Readme ↗︎</a> </th> >
+    <td><a href= "https://github.com/hariprasd/spot/blob/main/diags.md">Diagrams ↗︎</a></td>
+</div>
+<br>
+
 This idea originated when [I](https://github.com/hariprasd) went to several meetings & local meetups. Then seeing people facing issues in joining a group chat because, Every Chat Application like Whatsapp, Signal, Telegram needs either Mobile Number/ Username etc.. to initiate a group or a private chat. 
 Here We are trying to solve this problem, which has already been solved by Mobile Applications. But none of them will be interested in downloading a new app at that time.
 
