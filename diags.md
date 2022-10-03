@@ -1,3 +1,8 @@
+<div> >>
+    <th><a href="https://github.com/hariprasd/spot">Readme ↗︎</a> </th> >
+    <td><a href= "https://github.com/hariprasd/spot/blob/main/idea.md">Idea Brief ↗︎</a></td>
+</div>
+<br>
 <div align='center'>
   <h2>Pre-Alpha Feature Promises</h2><br>
   <img src="https://user-images.githubusercontent.com/75234157/192829760-5096c06b-7265-40f9-90cb-a486793f2af2.png" alt="SP•T" width="450" ><br><br>
