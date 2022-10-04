@@ -22,3 +22,5 @@ Web based offline chat platform, connected by wifi & hotspot to share only the t
 - https://github.com/xem/miniWebRTC
 - https://github.com/webrtc/samples
 - https://getstream.io/blog/communication-protocols/
+- https://github.com/goldingdamien/local-file-saver
+- https://www.npmjs.com/package/wifi-transfer
