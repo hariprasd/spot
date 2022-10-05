@@ -24,3 +24,5 @@ Web based offline chat platform, connected by wifi & hotspot to share only the t
 - https://getstream.io/blog/communication-protocols/
 - https://github.com/goldingdamien/local-file-saver
 - https://www.npmjs.com/package/wifi-transfer
+
+Contact me @ harimohan0502@gmail.com or [Whatsapp](https://wa.me/919345160259)
