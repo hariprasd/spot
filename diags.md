@@ -9,6 +9,7 @@
 </div>
 <br>
 
+- Devices need to have the same [public IP](https://www.google.com/search?q=what+is+my+ip) to see each other.
 - Hotspot provider must be a router inorder to handle a maximum of 254 connections in a same network.<br>
 - The internet connection is needed till Web page is loaded & the chat space is accessed.<br>
 - The data transferred is distributed by the Host to the co-clients by using WebRTC server, Only the devices in the network can access the chat & This is absolutely localized, Not a single data is given to cloud. <br>
