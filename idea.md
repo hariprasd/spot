@@ -1,6 +1,6 @@
 <div> >>
     <th><a href="https://github.com/hariprasd/spot">Readme ↗︎</a> </th> >
-    <td><a href= "https://github.com/hariprasd/spot/blob/main/diags.md">Diagrams ↗︎</a></td>
+    <td><a href= "https://github.com/hariprasd/spot/blob/main/tech.md">Tech ↗︎</a></td>
 </div>
 <br>
 
