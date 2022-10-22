@@ -1,14 +1,14 @@
 import React from "react";
-import logo from '../assets/logo.png';
+import logo from '../assets/logo.svg';
 
 const Nav = () => {
     return(
-        <div className="w-full h-1/6 flex items-center justify-between p-4">
-            <a href="" ><img src={logo} className="w-16" alt="logo"/></a>
-            <div className="w-2/6 flex items-center justify-evenly">
-                <a href="#" ><p className="text-xs font-thin">About</p></a>
-                <a href="#" ><p className="text-xs font-thin">How to?</p></a>
-                <a href="#" ><p className="text-xs font-thin">Docs</p></a>
+        <div className="sm:justify-center w-full h-1/6 flex items-center p-6 md:justify-between">
+            <a href=""><img src={logo} className="w-20 md:w-16 " alt="Spot-logo"/></a>
+            <div className="w-2/6 flex items-center justify-evenly gap-x-4 hidden lg:flex md:flex">
+                <a href="#" ><p className="text-sm hover:text-pink-600">About</p></a>
+                <a href="#" ><p className="text-sm hover:text-pink-600">How to?</p></a>
+                <a href="#" ><p className="text-sm hover:text-pink-600">Docs</p></a>
             </div>
         </div>
     )
