@@ -1,6 +1,6 @@
 <div align ="center"><img src="https://user-images.githubusercontent.com/75234157/192102190-ed065862-4cdd-4fe3-b920-8f03b16ea405.png" alt="SP•T" width="130" ><br><br>
 
-Web based offline chat platform, connected by wifi & hotspot to share only the text & generic data (offline & browser based) - for quick polls, fun chat etc.. <br> [Idea Brief ↗︎](https://github.com/hariprasd/spot/blob/main/idea.md) & [Tech ↗︎](https://github.com/hariprasd/spot/blob/main/tech.md) <br></div>
+SPOT is a web based offline chat platform connected over wifi or hotspot to share text and other generic data (offline & browser based) <br> [Idea Brief ↗︎](https://github.com/hariprasd/spot/blob/main/idea.md) & [Tech ↗︎](https://github.com/hariprasd/spot/blob/main/tech.md) <br></div>
 
 
 ***
@@ -8,7 +8,7 @@ Web based offline chat platform, connected by wifi & hotspot to share only the t
 
 > **End Users :** <br>
 (I) Organisations with a router facility <br>
-(II) Meetups, Small Gatherings, Friends Group, Classes etc...<br>
+(II) Meetups, small gatherings, friends chat group, classes etc<br>
 <br>
 
 **Related Links :**
