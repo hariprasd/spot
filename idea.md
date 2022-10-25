@@ -1,12 +1,12 @@
-<div> >>
-    <th><a href="https://github.com/hariprasd/spot">Readme ↗︎</a> </th> >
+[I](https://github.com/hariprasd) got this idea after I went to several local meetings & meetups and saw people faceing issues in joining a group chat because every chat application like Whatsapp, Signal, Telegram needs either mobile number, username or other personal information to initiate group or private chat, which becomes a hassle when there are a lot of people. This problem has already been solved by some mobile applications, but it needs to be downloaded, which maybe an inconvinance to some. So we have tried to overcome this by providing everything inside the browser.
+
+We are trying to figure out how P2P connections can be established using JavaScript in a browser. The goal is to allow people to just connect to a wifi with a chosen host's personal hotspot and open the website to start commuinicating. That is, everyone in that network can access the chat environment and use it for conducting polls, gathering opinions and other fun stuff.
+
+There are other issues like maximum connections per device, public wifi issues and more, but we are trying to build a proper solution for these problems.
+
+<div> >
+    <th><a href="https://github.com/hariprasd/spot">Readme ↗︎   </a> </th>  
+    <br> >
     <td><a href= "https://github.com/hariprasd/spot/blob/main/tech.md">Tech ↗︎</a></td>
 </div>
 <br>
-
-This idea originated when [I](https://github.com/hariprasd) went to several meetings & local meetups. Then seeing people facing issues in joining a group chat because, Every Chat Application like Whatsapp, Signal, Telegram needs either Mobile Number/ Username etc.. to initiate a group or a private chat. 
-Here We are trying to solve this problem, which has already been solved by Mobile Applications. But none of them will be interested in downloading a new app at that time.
-
-Here We are trying to figure out How P2P connections can be established using JavaScript in a Browser, So that people just need to open the Website & Connect wifi with a chosen host's personal hotspot. So that everyone in that network can access the chat environment. There they can conduct polls, Gather opinions, Fun Chat etc...
-
-There are issues like Maximum Connections per device,Public Wifi issues and more, But we are trying to build a proper solution for these problems.
